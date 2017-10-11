@@ -1,0 +1,23 @@
+.roxo{
+    background-color: #462755;
+}
+
+ul li a{
+    color: white;
+    font-weight: bolder;
+}
+
+
+.imagens{
+    width: 350px;
+    height: 250px;
+}
+
+.tamanho{
+    width: 100%;
+    max-height: 600px;
+}
+
+footer{
+    color: white;
+}
